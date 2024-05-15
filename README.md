@@ -5,21 +5,21 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=cloud-007)
 
-I am a <b>Full Stack Mobile Application Developer</b> currently working as a Software Engineer at <b>LII Lab</b>.
+I am currently working as a <b>Software Engineer</b> at <b>LII Lab</b>.
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in <b>C++, Django, Django Rest Framework, Flutter, React</b>, etc. I've worked with <b>speech recognition, system design, API development, and cross-platform application development.</b>
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in <b>C++, Django, Flutter, React.js</b>, etc. I've worked with <b>Speech Recognition, API development, and cross-platform application development.</b>
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with <b>Django Rest Framework, Flutter, React.js</b> etc.
+- 🛠 &nbsp; I’m currently working with <b>Django, Flutter, React.js</b> etc.
 - 🚀 &nbsp; I’m currently exploring <b>System Design, Backend Development, Design Patterns</b>.
 - 📫 &nbsp; Reach me out: <b><i>mie.mazharul@gmail.com</i></b>.
 
 ### My Absolute Favorites:
 
-- 🌐 &nbsp I love traveling, exploring new technologies, and building cool stuff.
+- 🌐 &nbsp; I love traveling, exploring new technologies, and building cool stuff.
 - 🍕 &nbsp; Meetups & Tech Events & Hackathons.
 
 ### Languages and Tools:
@@ -36,7 +36,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 ### Projects and Dev Stuffs:
 
-<details>
+<details open>
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
@@ -44,14 +44,14 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-007&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=dark"/>
 </details>
 
-<details>
+<details open>
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cloud-007&hide_border=false&theme=dark" />
 </details>
 
-<details>
+<details open>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
