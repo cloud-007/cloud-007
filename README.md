@@ -4,34 +4,34 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/-mazharulislam-/)
 [![Mail Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:mie.mazharul@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Maaazharul)
+[![Open to Work](https://img.shields.io/badge/-%23OpenToWork-22c55e?style=flat-square)](mailto:mie.mazharul@gmail.com)
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=cloud-007)
 
-I'm a **Full-Stack AI Engineer** with **3+ years** of experience shipping scalable backends, cross-platform mobile apps, and AI-powered SaaS platforms. Currently a **Senior Software Engineer at [LII Lab](https://www.liilab.com/)**, where I lead backend engineering and product development across two AI-powered English test preparation platforms — **[OneIELTS](https://oneielts.com)** and **[OnePTE](https://onepte.com)**.
+I'm a **Full-Stack AI Engineer** with **3+ years** of experience shipping scalable backends, cross-platform mobile apps, and AI-powered SaaS platforms. I just **concluded a 1,276-day journey at [LII Lab](https://www.liilab.com/)** (Nov 2022 — Apr 2026), where I grew from an early-career engineer into someone trusted with end-to-end product ownership — and was one of the core engineers behind **[OnePTE](https://onepte.com)** and **[OneIELTS](https://oneielts.com)**, in the room from the earliest product conversations to the systems running in production today.
 
-I specialize in **multi-tenant architecture, real-time speech evaluation pipelines, and end-to-end product delivery** — with **93+ production releases** across Android, iOS, and Web. I ship faster using AI-native tooling like **Claude Code** and **Cursor**, and I'm an avid competitive programmer with **2000+ problems solved** and a history at the **ICPC regional level**.
-
-🟢 &nbsp; **Open to new opportunities — backend, mobile & AI.**
+🟢 &nbsp; **Open to teams building something meaningful and solving complex problems — where engineering has real ownership and product impact matters.**
 
 ---
 
-### 🚀 What I'm Currently Building
+### 🚀 What I'm Up To Now
 
-- 🏢 &nbsp; **Multi-tenant SaaS** with `django-multitenant` — full data isolation, domain-based tenant routing, per-tenant scoring & feature flags.
-- 📝 &nbsp; A **QTI 3.0-compliant exam engine** — 100+ question types across IELTS Academic & General, with automated band-score normalization via a strategy-pattern scorer.
-- 🎙️ &nbsp; A **real-time speech evaluation pipeline** that processes spoken submissions end-to-end in **under 15s** — Speech Recognition + Pronunciation Assessment + NLP.
-- 💳 &nbsp; **Multi-gateway payment infrastructure** across **Stripe, Razorpay, SSLCommerz, Google Play & Apple** — subscription lifecycle, idempotent webhooks, campaign-based pricing.
-- 📊 &nbsp; A production **observability stack** with Prometheus/Grafana, per-API latency, and external service tracking with alerting.
-- 🤖 &nbsp; Exploring **agentic workflows & AI-assisted development** — most recently `testforge`, a mutation-driven test-backfill agent for the **Hourglass AI Agent Challenge**.
+- 🤖 &nbsp; Going deep on **agentic workflows** and the next generation of **AI-native developer tooling** — Claude Code, Cursor, custom coding agents.
+- 🛠️ &nbsp; **Helping devs empower their workflow** — sharing patterns, tooling, and agent setups that turn AI from autocomplete into a real engineering teammate.
+- 🎯 &nbsp; Thinking **product-first** — exploring ideas where the engineering, the AI, and the user experience all have to be right.
 
 ---
 
-### 🧑‍💻 A Bit More About Me
+### 🧑‍💻 Previously — Senior Software Engineer @ LII Lab
 
-- 🛠 &nbsp; Day-to-day stack: **Django, DRF, FastAPI, PostgreSQL, Redis, Celery, Flutter, Next.js, TypeScript**.
-- 🚀 &nbsp; Focused on **system design, technical leadership, AI-powered product engineering**, and mentoring junior engineers.
-- ☁️ &nbsp; Deploy & operate with **Docker, Nginx, GCP, DigitalOcean, RunPod, CI/CD**.
-- 📍 &nbsp; Based in **Sylhet, Bangladesh** &nbsp; · &nbsp; 📫 &nbsp; **mie.mazharul@gmail.com**
+Across **40 months** at LII Lab, the work spanned the full product lifecycle — stakeholder collaboration, system design, implementation, deployment, observability, debugging, and mentoring.
+
+- 🏢 &nbsp; On **OneIELTS** — multi-tenant SaaS architecture, QTI 3.0 exam engine, automated scoring, real-time speaking evaluation pipeline, multi-gateway payment infrastructure, internal Studio APIs, moderator tooling, and day-to-day production operations.
+- 📱 &nbsp; On **OnePTE** — Flutter app from day one, Django backend, AI scoring, mock test engine, subscription billing, content management, and analytics. Part of the team that shipped **93+ production releases** across Android, iOS, and the Web.
+- 🎙️ &nbsp; Engineered a **real-time speech evaluation pipeline** processing spoken submissions end-to-end in **under 15s** — Speech Recognition + Pronunciation Assessment + NLP.
+- 💳 &nbsp; Designed **multi-gateway payment infrastructure** across **Stripe, Razorpay, SSLCommerz, Google Play & Apple** — subscription lifecycle, idempotent webhooks, campaign-based pricing.
+- 📊 &nbsp; Stood up the production **observability stack** with Prometheus / Grafana, per-API latency instrumentation, and external service tracking with alerting.
+- 🧑‍🏫 &nbsp; Mentored junior engineers via code review, PR feedback, and technical walkthroughs; collaborated with product on requirement definition and architectural trade-offs.
 
 ---
 
@@ -90,7 +90,7 @@ I specialize in **multi-tenant architecture, real-time speech evaluation pipelin
   <br />
   <ul>
     <li><b><a href="https://oneielts.com">OneIELTS</a></b> — Multi-tenant IELTS Academic & General prep platform. QTI 3.0 engine, automated speech evaluation, 5-gateway billing.</li>
-    <li><b><a href="https://onepte.com">OnePTE</a></b> — PTE Academic & Core prep platform. Flutter app from scratch + AI scoring backend, 93+ production releases.</li>
+    <li><b><a href="https://onepte.com">OnePTE</a></b> — PTE Academic & Core prep platform. Flutter app from scratch + Django AI scoring backend, 93+ production releases.</li>
     <li><b><a href="https://www.patty-bros.co.uk/">Petty Bros</a></b> — South East London restaurant site. Next.js, Google Sheets-driven live menu, serverless bookings via Apps Script + Telegram.</li>
     <li><b><a href="https://cloud-007.github.io/">Portfolio</a></b> — Personal site built with Next.js 16, React 19, Tailwind v4, Framer Motion.</li>
   </ul>
@@ -102,8 +102,12 @@ I specialize in **multi-tenant architecture, real-time speech evaluation pipelin
   <ul>
     <li><b>OS:</b> macOS Tahoe 26</li>
     <li><b>Code Editors:</b> Cursor, VS Code, PyCharm, Android Studio, WebStorm</li>
-    <li><b>AI-Native Dev:</b> Claude Code, Cursor, agentic workflows</li>
+    <li><b>AI-Native Dev:</b> Claude Code, Cursor, agentic workflows, custom coding agents</li>
     <li><b>Infrastructure:</b> Docker, Nginx, CI/CD pipelines, GCP, DigitalOcean, RunPod</li>
-    <li><b>Other Tools:</b> Postman, Jira, Notion, Firebase, Linear</li>
+    <li><b>Other Tools:</b> Postman, Jira, Notion, Linear, Firebase</li>
   </ul>
 </details>
+
+---
+
+📍 &nbsp; Sylhet, Bangladesh &nbsp; · &nbsp; 📫 &nbsp; **mie.mazharul@gmail.com** &nbsp; · &nbsp; let's build something that matters.
