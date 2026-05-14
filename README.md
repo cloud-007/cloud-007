@@ -25,8 +25,3 @@ Going deep on agentic workflows and AI-native developer tooling — Claude Code,
 2,000+ problems solved across 300+ contests. Codeforces peak 1603, CodeChef peak 1965.
 
 Profiles (handle `cloud_007`): [Codeforces](https://codeforces.com/profile/cloud_007) · [CodeChef](https://www.codechef.com/users/cloud_007) · [LightOJ](https://lightoj.com/user/cloud_007) · [Toph](https://toph.co/u/cloud_007) · [Vjudge](https://vjudge.net/user/cloud_007)
-
----
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=cloud-007&show_icons=true&count_private=true&theme=dark&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-007&exclude_repo=KNN-Image-Classification&layout=compact&langs_count=8&theme=dark&hide_border=true" />
