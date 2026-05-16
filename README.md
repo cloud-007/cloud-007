@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-mie.mazharul%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mie.mazharul@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@Maaazharul-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Maaazharul)
 
-Full-Stack AI Engineer based in Sylhet, Bangladesh. I build scalable backends, cross-platform mobile apps, and AI-powered SaaS platforms.
+Full-Stack AI Engineer based in Sylhet, Bangladesh. Building product that solves user facing problems and make life easier.
 
 ---
 
