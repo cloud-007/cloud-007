@@ -13,12 +13,6 @@ Hustling every day to get a little better, and to become someone people genuinel
 
 ---
 
-### Currently
-
-Going deep on agentic workflows and AI-native developer tooling — Claude Code, Codex, custom coding agents — and building product ideas where the engineering, the AI, and the user experience all have to be right together.
-
----
-
 ### Competitive Programming
 
 - **ICPC Asia Dhaka Regional** — 51st (Main Round 2020) · 87th / 1,700+ teams (Preliminary 2021)
