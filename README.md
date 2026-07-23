@@ -5,7 +5,11 @@
 [![Email](https://img.shields.io/badge/Email-mie.mazharul%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mie.mazharul@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@Maaazharul-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Maaazharul)
 
-Full-Stack AI Engineer based in Sylhet, Bangladesh. Building product that solves user facing problems and make life easier.
+*In the process of building my identity.*
+
+Computer Science graduate with 3+ years building products from zero to real users. I've shipped features under tight deadlines, mentored juniors, worked across cross-functional teams, managed servers and production releases, and fixed things at 2 AM when no one else was around. Basically — whatever it takes to make a product grow, I've done it.
+
+Hustling every day to get a little better, and to become someone people genuinely admire.
 
 ---
 
