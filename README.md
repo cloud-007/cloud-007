@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-cloud--007.github.io-111?style=flat-square&logo=githubpages&logoColor=white)](https://cloud-007.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mazharulislam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-mazharulislam-/)
-[![X](https://img.shields.io/badge/X-@Maaazharul-000?style=flat-square&logo=x&logoColor=white)](https://x.com/Maaazharul)
+[![X](https://img.shields.io/badge/X-@mie__mazharul-000?style=flat-square&logo=x&logoColor=white)](https://x.com/mie_mazharul)
 [![YouTube](https://img.shields.io/badge/YouTube-theainativeengineer-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@theainativeengineer)
 [![Email](https://img.shields.io/badge/Email-mie.mazharul%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mie.mazharul@gmail.com)
 
