@@ -1,6 +1,6 @@
 ## Mazharul Islam
 
-**Product Engineer** — Sylhet, Bangladesh
+**Product Engineer**, Sylhet, Bangladesh
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-cloud--007.github.io-111?style=flat-square&logo=githubpages&logoColor=white)](https://cloud-007.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mazharulislam-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-mazharulislam-/)
@@ -8,18 +8,16 @@
 [![YouTube](https://img.shields.io/badge/YouTube-theainativeengineer-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@theainativeengineer)
 [![Email](https://img.shields.io/badge/Email-mie.mazharul%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mie.mazharul@gmail.com)
 
-Backend, frontend, mobile, infrastructure, DevOps, ML — all of it, because
+Backend, frontend, mobile, infrastructure, DevOps, ML. All of it, because
 agents made the parts I used to hand off cheap enough to keep. One person can
 hold a whole product now. Still working out what that changes, which is turning
 out to be most of the job.
 
 I spent three and a half years at [LII Lab](https://liilab.com) taking two
 exam-preparation platforms from early product conversations to production, and
-concluded that chapter in April 2026. Since then I have been building — two
+concluded that chapter in April 2026. Since then I have been building: two
 apps on Google Play, two client products in France, and a handful of tools I
 needed badly enough to write.
-
-**Open to roles where engineering owns the outcome, not just the ticket.**
 
 ---
 
@@ -27,26 +25,26 @@ needed badly enough to write.
 
 | | What it is | Stack |
 |---|---|---|
-| **Google Play ×2** | Two apps in production, six weeks apart — the second is the product the work was about | Flutter, Django, GCP |
+| **Google Play ×2** | Two apps in production, six weeks apart. The second is the product the work was about | Flutter, Django, GCP |
 | [**Sushi Lab**](https://sushilabrestaurant.com) | Bilingual ordering and marketing platform for a restaurant in Chartres, France. Solo, end to end | Next.js 16, React 19, TypeScript, Zustand, next-intl |
 | [**CityPhone 28**](https://www.cityphone28.com) | Bilingual site for a phone-repair shop, Chartres | Next.js 16, TypeScript, Tailwind |
-| [**TestForge**](https://github.com/cloud-007/testforge) | Mutation-driven test-backfill agent — writes the tests your suite is missing, then proves they catch something | Python, Claude API, mutmut, pytest |
+| [**TestForge**](https://github.com/cloud-007/testforge) | Mutation-driven test-backfill agent that writes the tests your suite is missing, then proves they catch something | Python, Claude API, mutmut, pytest |
 | [**serious-oj**](https://github.com/Eluminatis-of-LU/serious-oj) | Contributed to a production online judge, the one that hosts real contests | Python, asyncio, Docker |
 | [**Shamba Cast**](https://github.com/cloud-007/shamba-cast) | Weather advice for smallholder farmers | Next.js, TypeScript |
 | [**agent-auto-start**](https://github.com/cloud-007/agent-auto-start) | Restarts an agent when its session limit resets, so an interruption stops costing the thread | Python |
 | [**gmail-toolkit**](https://github.com/cloud-007/gmail-toolkit) | Command-line pipeline that sorts and structures a Gmail account | Python, Gmail API |
 | [**Portfolio**](https://github.com/cloud-007/cloud-007.github.io) | A living trail of 77 milestones, database-driven, with per-person consent gating on every name it publishes | Next.js 16, three.js, Supabase |
 
-### LII Lab — Nov 2022 to Apr 2026
+### LII Lab, Nov 2022 to Apr 2026
 
 Software Engineer, then Senior Software Engineer. 1,276 days on two products,
 in the room from the earliest conversations through to the systems still
 running.
 
-- **OnePTE** — Flutter app from day one, Django AI-scoring backend, mock test
+- **OnePTE**: Flutter app from day one, Django AI-scoring backend, mock test
   engine, subscription billing, content management, analytics.
   **93+ production releases** across Android, iOS and web.
-- **OneIELTS** — multi-tenant SaaS architecture, QTI 3.0 exam engine, automated
+- **OneIELTS**: multi-tenant SaaS architecture, QTI 3.0 exam engine, automated
   scoring, speaking evaluation pipeline, payment infrastructure, internal
   Studio APIs and moderator tooling. Took it multi-tenant for B2B with zero
   disruption to existing users.
@@ -55,11 +53,11 @@ running.
 
 ### Competitive programming
 
-- **ICPC Asia Dhaka Regional** — 51st, Main Round 2020 · 85th of 1,747 teams, Online Preliminary
-- **IEEEXtreme 16.0** — Runner-up in Bangladesh, global rank 149 (team `LazySquad`)
-- **National Hackathon Champion** — LU CSE Carnival 2023 (team `LU Ovream`)
-- **LU TechStorm 4** — Champion, 2021 (team `Catapult`)
-- **Google Code Jam** — qualified 2020 and 2022
+- **ICPC Asia Dhaka Regional**: 51st, Main Round 2020 · 85th of 1,747 teams, Online Preliminary
+- **IEEEXtreme 16.0**: Runner-up in Bangladesh, global rank 149 (team `LazySquad`)
+- **National Hackathon Champion**: LU CSE Carnival 2023 (team `LU Ovream`)
+- **LU TechStorm 4**: Champion, 2021 (team `Catapult`)
+- **Google Code Jam**: qualified 2020 and 2022
 
 2,000+ problems across 300+ contests. Codeforces peak **1603** (Expert),
 CodeChef peak **1965**.
@@ -79,8 +77,8 @@ two IEEE CS chapter contests. Taught **CV building and interview preparation**
 at CPS Academy.
 
 Co-founded and chaired the **IEEE Computer Society LU Student Branch Chapter**
-(2022–23), and handed it over through the first election in the university's
-history. Organized the **LU Research Bootcamp 2021** — twelve universities,
+(2022-23), and handed it over through the first election in the university's
+history. Organized the **LU Research Bootcamp 2021**: twelve universities,
 participants from three countries. IEEE **Outstanding Leadership Volunteer
 Award**, 2023.
 
@@ -89,7 +87,7 @@ Award**, 2023.
 - [Computer Science Didn't Stop Being Valuable. The Order You Learn It In Broke.](https://www.linkedin.com/pulse/computer-science-didnt-stop-being-valuable-order-you-learn-islam-l593c/)
 - [AI Tools Are The New Frameworks](https://medium.com/@mie.mazharul/ai-tools-are-the-new-frameworks-0abd4af884cc)
 - [Recovering Deleted Local Commits in Git](https://www.linkedin.com/pulse/recovering-deleted-local-commits-git-step-by-step-guide-emon/)
-- **[@theainativeengineer](https://www.youtube.com/@theainativeengineer)** — 20 episodes on building with agents
+- **[@theainativeengineer](https://www.youtube.com/@theainativeengineer)**, 20 episodes on building with agents
 
 ### Stack
 
